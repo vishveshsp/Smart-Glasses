@@ -1,0 +1,1 @@
+pip install pyttsx3 speechrecognition opencv-python pytesseract numpy pywhatkit pyjokes
