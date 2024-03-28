@@ -1,4 +1,4 @@
-# Voice Assistant Readme
+# Voice Assistant
 
 ## Overview
 This is a Python script implementing a simple voice assistant. The assistant can perform various tasks such as searching the web, object detection in images, converting images to text, telling jokes, and playing songs from YouTube. It utilizes speech recognition and text-to-speech libraries along with other packages for image processing and web browsing.
